@@ -1,0 +1,1 @@
+﻿Tworzenie danych testowych na postawie  https://github.com/bchavez/Bogus NuGet 
